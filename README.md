@@ -1,1 +1,1 @@
-# Laptop-Rentals-Project
+A CRM APPLICATION FOR LAPTOP RENTALS
